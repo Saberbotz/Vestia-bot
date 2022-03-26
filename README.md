@@ -1,5 +1,5 @@
  <p align="center">
-	<img src="https://images.app.goo.gl/ymM2vyfm6JJtzYpA8" width="200" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src"https://images.app.goo.gl/fuNGLLpEkWqz6d6p8"
 </p>
 <h1 align="center">VESTIA BOT</h1>
 
