@@ -1,24 +1,11 @@
-<p align="center">
-	<img src="https://media.giphy.com/media/Xr2km20NNBNqSN6iwu/giphy.gif" width="200" style="margin-left: auto;margin-right: auto;display: block;">
+ <p align="center">
+	<img src="https://images.app.goo.gl/ymM2vyfm6JJtzYpA8" width="200" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">SHIRAORI BOT</h1>
 
 ---
 ## My Project
-> WhatsApp Bot normal [`ShiraoriBOT`](https://github.com/ilmanhdyt/ShiraoriBOT)
-
-> WhatsApp Bot Multi Device [`ShiraoriBOT-Md`](https://github.com/ilmanhdyt/ShiraoriBOT-Md)
----
-
-
-
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ilmanhdyt/ShiraoriBOT)
-
-[![Grup WhatsApp](https://img.shields.io/badge/GroupWhatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/D7TmQm7UcfIBELBux19kIA)
-
-[![Contact Me](https://img.shields.io/badge/ContactMe-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281351047727)
+> WhatsApp Bot normal [`Vestaia-Bot`](https://github.com/Saberbotz/Vestia-bot)
 
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
