@@ -1,7 +1,7 @@
  <p align="center">
 	<img src="https://images.app.goo.gl/ymM2vyfm6JJtzYpA8" width="200" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">SHIRAORI BOT</h1>
+<h1 align="center">VESTIA BOT</h1>
 
 ---
 ## My Project
@@ -16,8 +16,8 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/ilmanhdyt/ShiraoriBOT
-cd ShiraoriBOT
+git clone https://github.com/Saberbotz/Vestia-bot
+cd Vestia-bot
 npm install
 npm update
 npm index
@@ -27,8 +27,8 @@ npm index
 
 ## UNTUK PENGGUNA TERMUX
 ```bash
-git clone https://github.com/ilmanhdyt/ShiraoriBOT
-cd ShiraoriBOT
+git clone https://github.com/Saberbotz/Vestia-bot
+cd Vestia-bot
 npm i
 npm update
 node .
